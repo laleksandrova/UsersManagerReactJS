@@ -1,0 +1,13 @@
+.mini-footer {
+    background: #1E5631;
+    text-align:center;
+    padding:15px 0
+   }
+   .mini-footer p {
+    margin:0;
+    line-height:26px;
+    font-size:15px;
+    color:white;
+    font-weight: 500;
+   }
+

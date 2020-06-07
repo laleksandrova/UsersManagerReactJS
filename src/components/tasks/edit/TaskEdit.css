@@ -1,0 +1,13 @@
+.task-edit-wrapper {
+    display: flex;
+    height: calc(100vh - 100px);
+    justify-content: center;
+    align-items: center;
+}
+.task-edit-form {
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 600px;
+    padding: 40px;
+    background-color: #1E5631;
+}

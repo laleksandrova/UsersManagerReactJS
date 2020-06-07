@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "5edd370b2ae321112cd03303",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=3",
+      "age": 92,
+      "name": "Goff Burke",
+      "username": "cillum39",
+      "email": "goffburke@zialactic.com",
+      "password": 12345
+    },
+    {
+      "id": "5edd370b50b3ab8559b595d3",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "age": 98,
+      "name": "Clare Frederick",
+      "username": "tempor23",
+      "email": "clarefrederick@zialactic.com",
+      "password": 12345
+    },
+    {
+      "id": "5edd370ba10e07c547c2cb7f",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=5",
+      "age": 28,
+      "name": "Cathie Chaney",
+      "username": "ad20",
+      "email": "cathychaney@zialactic.com",
+      "password": 12345
+    },
+    {
+      "id": "5edd370b97ec94c1397cdc70",
+      "isActive": false,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=6",
+      "age": 86,
+      "name": "Dana Guzman",
+      "username": "aliquip28",
+      "email": "danaguzman@zialactic.com",
+      "password": 12345
+    },
+    {
+      "id": "5edd370bb3d467360e587373",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=7",
+      "age": 36,
+      "name": "Small Mcneil",
+      "username": "consequat33",
+      "email": "smallmcneil@zialactic.com",
+      "password": 12345
+    },
+    {
+      "id": "5edd370b649174bbc1fec97d",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=8",
+      "age": 67,
+      "name": "Darcy Hubbard",
+      "username": "incididunt35",
+      "email": "darcyhubbard@zialactic.com",
+      "password": 12345
+    },
+    {
+      "id": "5edd370b9f9a143364dbebb5",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=9",
+      "age": 81,
+      "name": "Mendez Fernandez",
+      "username": "aliquip22",
+      "email": "mendezfernandez@zialactic.com",
+      "password": 12345
+    },
+    {
+      "id": "5edd370b7e604e32bcb37b6b",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=10",
+      "age": 43,
+      "name": "Maddox Decker",
+      "username": "irure20",
+      "email": "maddoxdecker@zialactic.com",
+      "password": 12345
+    },
+    {
+      "name": "Lyubomira Aleksandrova",
+      "email": "mira@abv.bg",
+      "password": "12345",
+      "age": "21",
+      "errorMessage": "",
+      "username": "mira123",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "BE2QcjV"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "regerg",
+      "content": "ergerg",
+      "authorId": "5edd370b50b3ab8559b595d3",
+      "authorName": "Clare Frederick",
+      "date": "2020-06-07T19:50:18.426Z",
+      "grade": "Good",
+      "status": "Pending",
+      "id": 1
+    },
+    {
+      "title": "ergerg",
+      "content": "fbdfbfb",
+      "authorId": "5edd370b50b3ab8559b595d3",
+      "authorName": "Clare Frederick",
+      "date": "2020-06-07T19:51:36.700Z",
+      "grade": "Average",
+      "status": "Pending",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "content": "test1",
+      "authorId": "BE2QcjV",
+      "authorName": "Lyubomira Aleksandrova",
+      "date": "2020-06-07T19:52:29.831Z",
+      "grade": "Excellent",
+      "status": "Pending",
+      "id": 3
+    },
+    {
+      "title": "proba",
+      "content": "proba1",
+      "authorId": "BE2QcjV",
+      "authorName": "Lyubomira Aleksandrova",
+      "date": "2020-06-07T19:52:41.361Z",
+      "grade": "Good",
+      "status": "Done",
+      "id": 4
+    }
+  ]
+}

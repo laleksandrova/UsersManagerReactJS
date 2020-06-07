@@ -1,0 +1,16 @@
+body{
+    background: url('https://i.pinimg.com/originals/97/66/b8/9766b85399e209014da6c9b344de6bbb.jpg');
+}
+.user-edit-wrapper {
+    display: flex;
+    height: calc(100vh - 100px);
+    justify-content: center;
+    align-items: center;
+}
+.user-edit-form {
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 600px;
+    padding: 40px;
+    background-color: #1E5631;
+}
